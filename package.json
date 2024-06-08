@@ -4,6 +4,7 @@
   "description": "A cli-based number guessing game created via Typescript, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
